@@ -1,0 +1,1 @@
+import{y as e,o,b as t,c as n,d as s}from"./index-C7dgg-A2.js";const a=s("div",{id:"loginss",style:{height:"400px",width:"400px"}},null,-1),c=[a],r=e({__name:"scanLogin",setup(i){return o(()=>{}),(_,d)=>(t(),n("div",null,c))}});export{r as default};
