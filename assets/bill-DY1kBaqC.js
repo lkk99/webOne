@@ -1,0 +1,1 @@
+import{C as t}from"./index-CveQr6yx.js";const a=e=>t({url:"/billAdd",method:"post",data:e}),l=e=>t({url:"/bill?pageSize="+e.pageSize+"&pageNum="+e.pageNum,method:"get"}),g=e=>t({url:"/getView?year="+e.year,method:"get"});export{a,l as b,g};

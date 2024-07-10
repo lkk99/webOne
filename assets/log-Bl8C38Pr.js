@@ -1,0 +1,1 @@
+import{C as t}from"./index-CveQr6yx.js";const o=e=>t({url:"/log?pageSize="+e.pageSize+"&pageNum="+e.pageNum,method:"get"}),r=()=>t({url:"/billExport",method:"gets"}),a=e=>t({url:"/getLogView?year="+e.year,method:"get"});export{o as a,r as e,a as g};
